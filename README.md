@@ -108,7 +108,3 @@ Firebase Storage is used for uploading profile pictures. The `Profile.jsx` compo
 - **GET** `/server/user/:id` - Get user details
 - **POST** `/server/user/update/:id` - Update user details
 - **DELETE** `/server/user/delete/:id` - Delete user account
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
