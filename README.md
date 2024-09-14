@@ -1,6 +1,6 @@
 # MERN Authentication App
 
-This project is a full-stack MERN (MongoDB, Express, React, Node.js) authentication app with Google OAuth integration, Redux state management, and user profile management. The app is deployed on Render. [Project-Link](https://mern-auth-389v.onrender.com).
+This project is a full-stack MERN (MongoDB, Express, React, Node.js) authentication app with Google OAuth integration, Redux state management, and user profile management. The app is deployed on Render. [Project-Link](https://mern-auth-389v.onrender.com)
 
 ## Features
 
